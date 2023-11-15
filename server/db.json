@@ -1,0 +1,64 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Алексей",
+            "email": "alextom@gmail.com",
+            "password": "1234"
+        },
+        {
+            "id": 2,
+            "name": "Артем",
+            "email": "bob2000@gmail.com",
+            "password": "0000"
+        },
+        {
+            "id": 3,
+            "name": "Анна",
+            "email": "annarom@mail.com",
+            "password": "toto"
+        },
+        {
+            "id": 4,
+            "name": "Антон",
+            "email": "antoha3000@gmail.com",
+            "password": "lololo"
+        },
+        {
+            "id": 5,
+            "name": "Мария",
+            "email": "masha60@gmail.com",
+            "password": "masha"
+        },
+        {
+            "id": 6,
+            "name": "Саша",
+            "email": "sanya09@gmail.com",
+            "password": "password"
+        },
+        {
+            "id": 7,
+            "name": "Михаил",
+            "email": "mihailEl@gmail.com",
+            "password": "800m"
+        },
+        {
+            "id": 8,
+            "name": "Олеся",
+            "email": "olesya40@gmail.com",
+            "password": "kitty90"
+        },
+        {
+            "id": 9,
+            "name": "Марина",
+            "email": "marinka30@gmail.com",
+            "password": "roxi7093"
+        },
+        {
+            "id": 10,
+            "name": "Владимир",
+            "email": "vovislove@gmail.com",
+            "password": "tosa0912"
+        }
+    ]
+}
