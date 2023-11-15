@@ -1,4 +1,5 @@
 {
+  "homepage": "https://marinanogovitsyna.github.io/Login/",
   "name": "login",
   "version": "0.1.0",
   "private": true,
@@ -17,7 +18,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "server": "json-server -w server/db.json -p 3001"
+    "server": "json-server -w server/db.json -p 3001",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -39,6 +42,7 @@
   },
   "devDependencies": {
     "concurrently": "^8.2.2",
+    "gh-pages": "^6.0.0",
     "json-server": "^0.17.4"
   }
 }
